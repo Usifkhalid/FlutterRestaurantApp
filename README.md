@@ -30,6 +30,13 @@ A modern, professional restaurant app built with Flutter and Riverpod. Users can
    flutter run
    ```
 
+## Demo Login
+
+Use the following credentials to log in:
+
+- **Email:** `test@example.com`
+- **Password:** `password123`
+
 ## Notes
 
 - Tested with Flutter 3.8.1 and Riverpod 2.5.1

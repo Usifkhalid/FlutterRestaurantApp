@@ -1,6 +1,6 @@
 # Flutter Restaurant App
 
-A modern, professional restaurant app built with Flutter and Riverpod. Users can browse restaurants, search for products, add items to a basket, and complete a checkout flow.
+A modern, professional restaurant app built with Flutter and Riverpod. Users can browse restaurants, search for products, add items to a basket, and complete a checkout flow—all with a beautiful, responsive UI and Unsplash images. No backend required.
 
 ## Features
 
@@ -12,13 +12,14 @@ A modern, professional restaurant app built with Flutter and Riverpod. Users can
 - Checkout screen with order summary and confirmation
 - State management with Riverpod
 - Beautiful, responsive UI
+- Mock/static data for easy demo
 
 ## Setup Instructions
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
-   cd fluttertask
+   git clone https://github.com/Usifkhalid/FlutterRestaurantApp.git
+   cd FlutterRestaurantApp
    ```
 2. **Install dependencies:**
    ```sh
